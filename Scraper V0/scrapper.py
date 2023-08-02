@@ -33,4 +33,4 @@ def scrape_site_from_sitemap(sitemap_url):
 
         print('Scraping terminé. Regarde dans scraped_data.csv.')
         
-scrape_site_from_sitemap('https://www.youtube.com/%27')
+scrape_site_from_sitemap('https://pastebin.com/raw/i0dkkPbF')

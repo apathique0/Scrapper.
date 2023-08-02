@@ -1,3 +1,3 @@
 @echo off
-python samuel.py
+python scrapper.py
 pause
