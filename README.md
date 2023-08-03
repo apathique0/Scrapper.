@@ -1,7 +1,7 @@
 # Scrapper by Apathique.
 ###### Ce scrapper est conçu pour extraire des informations spécifiques à partir de sites web de manière systématique et organisée.
 
-## Table of contents
+## Sommaire
 * [Infos importantes](#infos-importantes) 
 * [Logiciels utilisés](#logiciels-utilisés)
 * [Installation](#installation)
